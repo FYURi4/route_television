@@ -1,1 +1,74 @@
-
+{
+  
+  "video_different": [
+    {
+      "url": "https://cdn.jsdelivr.net/gh/FYURi4/route_television/video-gmod/different/ДЕТИ%20ГЕРОИ%20МЧС.webm",
+      "enabled": true,
+      "duration": 120
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/FYURi4/route_television/video-gmod/different/Отбивка-Маршрутное-Телевидение.webm",
+      "enabled": true,
+      "duration": 120
+    }
+  ],
+  
+  "video_advertisement": [
+    {
+      "url": "https://cdn.jsdelivr.net/gh/FYURi4/route_television/video-gmod/advertisement/RLine.webm",
+      "enabled": true,
+      "duration": 120
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/FYURi4/route_television/video-gmod/advertisement/Промо%20ролик%20для%20рынка%20Щедруха.webm",
+      "enabled": true,
+      "duration": 120
+    }
+  ],
+  
+  "video_entertaining": [
+    {
+      "url": "https://cdn.jsdelivr.net/gh/FYURi4/route_television/video-gmod/entertaining/Развлекательный-контент-Маршрутного-ТВ-_1_.webm",
+      "enabled": true,
+      "duration": 120
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/FYURi4/route_television/video-gmod/entertaining/Развлекательный-контент-Маршрутного-ТВ-_2_.webm",
+      "enabled": true,
+      "duration": 120
+    },
+    {
+      "url": "https://github.com/FYURi4/route_television/blob/main/video-gmod/entertaining/Развлекательный-контент-Маршрутного-ТВ-_3__1.webm",
+      "enabled": true,
+      "duration": 120
+    },
+    {
+      "url": "https://github.com/FYURi4/route_television/blob/main/video-gmod/entertaining/Развлекательный-контент-Маршрутного-ТВ.webm",
+      "enabled": true,
+      "duration": 120
+    }
+  ],
+  
+  "video_social": [
+    {
+      "url": "https://cdn.jsdelivr.net/gh/FYURi4/route_television/video-gmod/social/1MT%208%20Marta%202020%20Logo.webm",
+      "enabled": true,
+      "duration": 120
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/FYURi4/route_television/video-gmod/social/Маршрутное%20Телевидение%20информирует%20пассажиров%20о%20мерах%20профилактики%20вирусных%20инфе.webm",
+      "enabled": true,
+      "duration": 120
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/FYURi4/route_television/video-gmod/social/Ролик-для-транспортного-предприятия-ETK-Культура-обслуживания.webm",
+      "enabled": true,
+      "duration": 120
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/FYURi4/route_television/video-gmod/social/Ролик-для-транспортного-предприятия-ETK-Стоп-лист.webm",
+      "enabled": true,
+      "duration": 120
+    }
+  ]
+}

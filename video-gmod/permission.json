@@ -1,13 +1,15 @@
 {
-  
+  "video_logotype": [
+    {
+      "url": "https://cdn.jsdelivr.net/gh/FYURi4/route_television/video-gmod/different/Отбивка-Маршрутное-Телевидение.webm",
+      "enabled": true,
+      "duration": 120
+    }
+  ],
+
   "video_different": [
     {
       "url": "https://cdn.jsdelivr.net/gh/FYURi4/route_television/video-gmod/different/ДЕТИ%20ГЕРОИ%20МЧС.webm",
-      "enabled": true,
-      "duration": 120
-    },
-    {
-      "url": "https://cdn.jsdelivr.net/gh/FYURi4/route_television/video-gmod/different/Отбивка-Маршрутное-Телевидение.webm",
       "enabled": true,
       "duration": 120
     }
